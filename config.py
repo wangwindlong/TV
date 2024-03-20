@@ -7,8 +7,9 @@ favorite_list = [
     "CCTV1",
     "CCTV5",
     "CCTV5+",
+    "CCTV9",
+    "CCTV10",
     "CCTV13",
-    "广东体育",
     "广东卫视",
     "大湾区卫视",
     "浙江卫视",
@@ -20,5 +21,5 @@ default_page_num = 4
 urls_limit = 15
 response_time_weight = 0.5
 resolution_weight = 0.5
-recent_days = 60
-ipv_type = "ipv4"
+recent_days = 2
+ipv_type = "all"
